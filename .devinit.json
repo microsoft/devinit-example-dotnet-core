@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/devinit.schema-2.0",
+  "run": [
+    {
+      "comments": "Installs the .NET Core SDK specified in the global.json file.",
+      "tool": "require-dotnetcoresdk"
+    }
+  ]
+}
